@@ -1,0 +1,14 @@
+.dashboard a {
+    box-sizing: border-box;
+    width: 10%;
+    padding: 2%;
+    background: #31a1a1;
+    border-bottom: 1px solid #161616;
+    border-top-style: none;
+    border-right-style: none;
+    border-left-style: none;
+    color: #fff;
+    font-size: 15px;
+    margin: 0px 0px 0px 1120px;
+    text-decoration: none;
+}
